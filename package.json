@@ -15,6 +15,5 @@
     "jsonwebtoken": "^9.0.2",
     "sqlite3": "^5.1.7"
   },
-  "author": "Antigravity",
-  "license": "ISC"
+  
 }
